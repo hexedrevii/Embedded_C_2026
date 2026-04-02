@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "stdio.h": "c",
+        "windows.h": "c",
+        "fcontrol.h": "c",
+        "messages.h": "c",
+        "string.h": "c"
+    }
+}
