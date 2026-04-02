@@ -2,7 +2,6 @@
 #define FCONTROL_H
 #include <stdio.h>
 #include <string.h>
-#include <windows.h> 
 #include "Types.h"
 
 // Constants for CAN frame
