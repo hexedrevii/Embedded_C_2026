@@ -2,8 +2,10 @@
 #include "Messages.h"
 #include <stdio.h>
 
-
-/*Pentru build: CTRL+SHIFT+B*/
+/*
+  Pentru build Windows: CTRL+SHIFT+P (Raw cl.exe)
+  Pentru build Linux/MacOS: Build/Run in jos-stanga (CMake)
+*/
 int main(void) {
     initializeMessages();
 
